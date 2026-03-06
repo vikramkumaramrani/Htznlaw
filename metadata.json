@@ -1,0 +1,5 @@
+{
+  "name": "HTNZ Law Corporation",
+  "description": "Professional law firm in Surrey, BC, providing trusted legal guidance in Family, Real Estate, Immigration, and Business Law.",
+  "requestFramePermissions": ["geolocation"]
+}
